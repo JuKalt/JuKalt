@@ -1,4 +1,4 @@
-# Hi, I'm Julian
+# Julian
 
 PhD researcher in Computer Vision and Computer Graphics at the University of Bonn, with a focus on dynamic 3D/4D reconstruction, neural representations, Gaussian Splatting, and human avatar reconstruction.
 
