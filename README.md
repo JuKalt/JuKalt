@@ -49,9 +49,9 @@ Static object reconstruction method combining geometry and appearance transfer f
 
 ## Projects and Code
 
-This GitHub profile collects research code, project pages, experiments, and tools related to 3D/4D reconstruction and neural graphics.
+This GitHub profile collects selected research code, project pages, experiments, and tools related to 3D/4D reconstruction and neural graphics.
 
-Some repositories are connected to published research projects, while others contain experimental implementations, infrastructure, or work-in-progress research code.
+Code for published projects is released when available. Some repositories remain private while related work is under review or in active development.
 
 ## Links
 
